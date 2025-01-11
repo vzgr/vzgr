@@ -1,1 +1,1 @@
-<span style="display:block;background-color:darkgray; border-radius:3px;"> c++ </span>
+<span style="display:block;background-color:white; border-radius:3px;"> c++ </span>
