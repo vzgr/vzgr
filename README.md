@@ -1,1 +1,11 @@
-<span style="display:block;background-color:white; border-radius:3px;"> c++ </span>
+# Stack
+- C++
+- Python
+- JS
+# Projects
+-
+-
+-
+- that stuff about ae....
+-
+-
